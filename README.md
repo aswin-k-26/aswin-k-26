@@ -1,4 +1,5 @@
 ## Hi there 👋
+HI I AM ASWIN K CURRENTLY STUDYING  PRE FINAL YEAR
 
 <!--
 **aswin-k-26/aswin-k-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
