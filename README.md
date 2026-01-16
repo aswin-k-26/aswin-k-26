@@ -37,7 +37,7 @@ Feel free to connect with me on LinkedIn.
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,react,nodejs,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,react,nodejs,mysql,git,github,figma,excel" />
 </p>
 
 ---
