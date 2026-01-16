@@ -25,13 +25,19 @@ Feel free to connect with me on LinkedIn.
 - **Tools:** Git, GitHub, Figma, MS Office  
 
 ---
-
 ### 🚀 Projects
 - ✅ **Smart RFID Billing Trolley**  
-  ESP32-based RFID trolley for automated billing and real-time LCD display.
+  ESP32-based RFID smart trolley for automated billing with real-time LCD display, item add/remove tracking, and secure start/stop access control. Integrated **UPI QR-based payment** for quick digital checkout.
+
+- ✅ **Predictive Maintenance Analytics for CNC Machines (S.P.O.T – Fix-It-Bot)**  
+  IoT + AI based predictive maintenance system using ESP32 and multi-sensors (temperature, vibration, sound, current) with a **Random Forest model** for anomaly detection and downtime reduction.
+
+- ✅ **Book Store Management System**  
+  Java-based application to manage book inventory, customer billing, and stock tracking with efficient database operations.
 
 - ✅ **Serving Bot / Docu Bot**  
-  Automation-based embedded projects for real-time assistance.
+  Automation-based embedded system projects for real-time assistance using sensors, control logic, and modular design.
+
 
 ---
 
