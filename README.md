@@ -42,13 +42,8 @@ Feel free to connect with me on LinkedIn.
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-k-26&theme=transparent" height="160"/>
-</p>
-
----
-
 ### 📫 Contact Me
 - 📧 Email: **k.ashwin.2603@gmail.com**
 - 🔗 LinkedIn: **https://linkedin.com/in/aswin-k-8a3a30255/**
+- - 🌐 Portfolio: [Aswin](https://aswin-k.web.app/)
+  
