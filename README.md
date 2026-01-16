@@ -45,5 +45,5 @@ Feel free to connect with me on LinkedIn.
 ### 📫 Contact Me
 - 📧 Email: **k.ashwin.2603@gmail.com**
 - 🔗 LinkedIn: **https://linkedin.com/in/aswin-k-8a3a30255/**
-- - 🌐 Portfolio: [Aswin](https://aswin-k.web.app/)
+- 🌐 Portfolio: [Aswin](https://aswin-k.web.app/)
   
