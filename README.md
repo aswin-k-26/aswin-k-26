@@ -42,11 +42,6 @@ Feel free to connect with me on LinkedIn.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswin-k-26&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-k-26&layout=compact&theme=transparent" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-k-26&theme=transparent" height="160"/>
